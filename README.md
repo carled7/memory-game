@@ -7,4 +7,4 @@
 ---
  Click on it to play the game!
 
- ![Game screenshot](./assets/Screenshot.png "Cards")
+ ![Game screenshot](memory-game/assets/Screenshot.png "Cards")
