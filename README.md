@@ -5,6 +5,5 @@
 
 ## 🎮 Here's a screenshot:
 ---
- Click on it to play the game!
 
  ![Game screenshot](/assets/Screenshot.png "Cards")
